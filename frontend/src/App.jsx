@@ -1,6 +1,7 @@
 import { useState } from "react";
 
-const API = "http://localhost:8000/chat";
+//const API = "http://localhost:8000/chat";
+const API = "https://backend-chatbot-ket0.onrender.com/chat";
 
 export default function App() {
   const [msgs, setMsgs] = useState([]);

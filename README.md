@@ -46,3 +46,4 @@ npm run dev
 ```
 
 프론트엔드 개발 서버는 기본적으로 `http://localhost:5173`에서 실행됩니다.
+나의 챗봇 주소 ~ https://frontend-chatbot-2fti.onrender.com/
